@@ -1,10 +1,10 @@
-<div align="center">
+<hr><div align="center">
 <img width="480" alt="image" src="https://www.uky.edu/mlk/sites/www.uky.edu.mlk/files/WEATHER-CANCELLATION.jpg">
 </div>
 
 <br><br>
 ## ☔ KBO-Rain-Pred
----
+
 > **엔코아 플레이데이터 24기 손병규** <br/> **개발기간: 2023.06 ~**
 
 <br>
@@ -13,8 +13,8 @@ __KBO-Rain-Pred은 내가 좋아하는 팀 혹은 기대하고 있는 경기가 
 
 🛠 본 사이트는 개인의 개발 역량을 키우기 위해 만들어지고 있는 중이며, 사용한 기술 스택은 아래와 같습니다.
 <br><br>
-## 🐈 Stacks (TBC)
 ---
+## 🐈 Stacks (TBC)
 ### Environment
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -43,17 +43,16 @@ __KBO-Rain-Pred은 내가 좋아하는 팀 혹은 기대하고 있는 경기가 
 <img algin=left alt="achitacure" src="https://user-images.githubusercontent.com/79441624/260300685-f0782fc6-6001-42af-af6a-92d8976f78ce.jpg">
 <img aling= left alt="image" src="https://user-images.githubusercontent.com/79441624/260300687-1b49b804-efa5-41f1-9089-846b994823c6.jpg">
 
-
+---
 ### 디렉토리 구조
 ```bash
 TBU
 ```
+---
 ## 👀 주요출처
 
 > **○ KBO 일정** : [TBU](TBU)
 > **○ 날씨  API** : [TBU](TBU)<br>
-
-
 ## 시작 가이드
 ### Requirements
 For building and running the application you need:
